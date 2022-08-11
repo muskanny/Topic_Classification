@@ -7,7 +7,7 @@ Code base for the paper "Topic Classification from Text Using Decision Tree, K-N
 	
 
 #### Please Cite the paper if you use the code/data:
-
+```ruby
 	@inproceedings{rahman2019topic,
 	  title={Topic Classification from Text Using Decision Tree, K-NN and Multinomial Na{\"\i}ve Bayes},
 	  author={Rahman, Md Ataur and Akter, Yeasmin Ara},
@@ -16,3 +16,4 @@ Code base for the paper "Topic Classification from Text Using Decision Tree, K-N
 	  year={2019},
 	  organization={IEEE}
 	}		
+```
